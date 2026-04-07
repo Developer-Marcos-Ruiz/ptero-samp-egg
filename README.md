@@ -57,7 +57,7 @@ scriptfiles/
 El servidor se ejecuta con:
 
 ```Startup Command id="u39g3y"
-wine samp-server.exe
+wine64 .\/samp-server.exe
 ```
 
 ---
